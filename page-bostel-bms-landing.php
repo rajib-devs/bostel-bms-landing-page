@@ -743,7 +743,7 @@ wp_head();
 <!-- ==================== 1. HEADER ==================== -->
 <header class="site-header">
   <div class="container">
-    <a href="https://www.bostel.com" class="logo" aria-label="Bostel Communications website">
+    <a href="#" class="logo" aria-label="Bostel Communications website">
       <img src="https://www.bostel.com/wp-content/uploads/2024/05/logo11.png" alt="Bostel BMS">
     </a>
     <!-- WhatsApp / phone contact icon only - no nav links, no cart, no search on purpose -->
