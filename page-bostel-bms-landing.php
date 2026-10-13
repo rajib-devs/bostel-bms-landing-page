@@ -776,7 +776,7 @@ wp_head();
             <span class="check" aria-hidden="true">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M20 6 9 17l-5-5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </span>
-            Web, iPhone, and Android
+            Work from anywhere, any device
           </li>
           <li>
             <span class="check" aria-hidden="true">
