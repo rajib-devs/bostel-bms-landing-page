@@ -91,8 +91,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bostel BMS - CRM for Micro and Small Businesses | Start Your Free Trial</title>
-<meta name="description" content="Bostel BMS brings customers, quotes, billing, and payments together in one place for Micro and Small companies. Bilingual, works on phone, tablet, or computer. Start your 10-day free trial.">
+<title> BOSTEL BMS · FIELD & LOCAL SERVICE BUSINESSES | Start Your Free Trial</title>
+<meta name="description" content="Bostel BMS brings customers, quotes, billing, and payments together in one place for field and local service businesses. Bilingual, works on phone, tablet, or computer. Start your 10-day free trial.">
 <!-- TODO: replace with real Open Graph image + production domain before running ads -->
 <meta property="og:title" content="Bostel BMS - The System That Organizes Quotes, Payments, and Crews">
 <meta property="og:description" content="Bilingual CRM built for Micro and Small businesses. Set up in minutes. Start your 10-day free trial.">
@@ -258,7 +258,7 @@ wp_head();
   /* ==================== HERO ==================== */
   .hero{
     background: var(--bg-light);
-    padding: 48px 0;
+    padding: 28px 0;
   }
   .hero-inner{
     display: grid;
@@ -762,36 +762,37 @@ wp_head();
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-copy">
-        <h1>Run quotes, payments and crews from one app</h1>
-        <p class="subhead">Bostel BMS for Florida Micro and small businesses. Free for 10 days.</p>
+        <h1>Run your service business from one app.</h1>
+        <p class="subhead">Manage customers, schedules, quotes, invoices, and team tasks in one place - whether you work at customers' homes, on the road, or from an office.</p>
 
         <ul class="trust-list">
           <li>
             <span class="check" aria-hidden="true">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M20 6 9 17l-5-5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </span>
-            Bilingual interface (English and Spanish)
+            Keep customer details and work organized
           </li>
           <li>
             <span class="check" aria-hidden="true">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M20 6 9 17l-5-5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </span>
-            Work from anywhere, any device
+            Manage schedules, tasks, and team coordination  
           </li>
           <li>
             <span class="check" aria-hidden="true">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M20 6 9 17l-5-5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </span>
-            Set up in minutes
+             Handle quotes and invoices in one place
           </li>
         </ul>
 
         <!-- Primary CTA - links directly to the Standard plan WooCommerce checkout. -->
-        <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="hero">Try for free</a>
+        <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="hero">Start My Free 10-Day Trial</a>
+        <p class="subhead" style="margin-top:10px;">Works on web and mobile · English and Spanish</p>
       </div>
 
       <div class="hero-media">
-        <img src="https://www.bostel.com/wp-content/uploads/2026/09/florida-landscaper.webp" alt="Florida Micro ans Small Businesses using Bostel BMS in the field">
+        <img src="https://www.bostel.com/wp-content/uploads/2026/09/florida-landscaper.webp" alt="BOSTEL BMS · FIELD & LOCAL SERVICE BUSINESSES">
       </div>
     </div>
   </section>
@@ -1132,7 +1133,7 @@ wp_head();
       <h2>Start your 10-day free trial</h2>
       <p class="lead">Join Micro and Small businesses across Florida already running their quotes, payments, and crews from one place.</p>
 
-      <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="final">Try for Free</a>
+      <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="final">Start My Free 10-Day Trail</a>
 
       <a href="https://wa.me/13217325338" class="secondary-link">Prefer to talk it through? WhatsApp us at (321) 732-5338</a>
     </div>
@@ -1153,7 +1154,7 @@ wp_head();
       <div class="footer-col">
         <h4>Useful Links</h4>
         <ul>
-          <li><a href="https://www.bostel.com/bostel-bms-crm-plans/">Pricing</a></li>
+          <!-- <li><a href="https://www.bostel.com/bostel-bms-crm-plans/">Pricing</a></li> -->
           <li><a href="https://www.bostel.com/privacy-policy/">Privacy Policy</a></li>
           <li><a href="https://www.bostel.com/terms-and-conditions/">Terms of Service</a></li>
         </ul>
