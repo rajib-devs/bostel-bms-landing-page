@@ -750,8 +750,8 @@ wp_head();
     <a href="https://wa.me/13217325338" class="header-contact" aria-label="Chat with us on WhatsApp">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M17.6 6.32A7.85 7.85 0 0 0 12.05 4c-4.33 0-7.85 3.5-7.85 7.8 0 1.38.36 2.72 1.05 3.9L4 20l4.44-1.16a7.9 7.9 0 0 0 3.6.88h.01c4.33 0 7.85-3.5 7.85-7.8a7.7 7.7 0 0 0-2.3-5.6Zm-5.55 12a6.5 6.5 0 0 1-3.31-.9l-.24-.14-2.63.69.7-2.55-.15-.26a6.45 6.45 0 0 1-1-3.42c0-3.57 2.92-6.47 6.53-6.47a6.5 6.5 0 0 1 4.61 1.9 6.4 6.4 0 0 1 1.91 4.57c0 3.57-2.92 6.47-6.42 6.47Zm3.58-4.85c-.2-.1-1.17-.57-1.35-.64-.18-.07-.31-.1-.44.1-.13.19-.5.63-.62.77-.11.13-.23.15-.42.05-.2-.1-.83-.3-1.58-.96a5.9 5.9 0 0 1-1.09-1.34c-.11-.2 0-.3.09-.4.1-.1.2-.24.3-.36.1-.13.13-.2.2-.34.07-.14.03-.26-.02-.36-.05-.1-.44-1.05-.6-1.44-.16-.38-.32-.32-.44-.33h-.38c-.13 0-.34.05-.52.24-.18.19-.68.66-.68 1.6 0 .95.7 1.86.8 1.99.1.13 1.37 2.1 3.33 2.94.46.2.83.32 1.11.4.47.15.9.13 1.24.08.38-.06 1.17-.48 1.33-.94.16-.46.16-.85.11-.94-.05-.09-.18-.14-.38-.24Z" fill="currentColor"/>
-      </svg>
-      <span class="contact-label">WhatsApp Us</span>
+      </svg> WhatsApp Us
+      <!-- <span class="contact-label">WhatsApp Us</span> -->
     </a>
   </div>
 </header>
@@ -762,8 +762,8 @@ wp_head();
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-copy">
-        <h1>The system that organizes quotes, payments, and crews for your Micro and Small business</h1>
-        <p class="subhead">Bostel BMS brings customers, quotes, billing, and payments together in one place. Available on your phone, tablet, or computer.</p>
+        <h1>Run quotes, payments and crews from one app</h1>
+        <p class="subhead">Bostel BMS for Florida Micro and small businesses. Free for 10 days.</p>
 
         <ul class="trust-list">
           <li>
@@ -787,7 +787,7 @@ wp_head();
         </ul>
 
         <!-- Primary CTA - links directly to the Standard plan WooCommerce checkout. -->
-        <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="hero">Start your 10-day free trial</a>
+        <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="hero">Try for free</a>
       </div>
 
       <div class="hero-media">
@@ -1132,7 +1132,7 @@ wp_head();
       <h2>Start your 10-day free trial</h2>
       <p class="lead">Join Micro and Small businesses across Florida already running their quotes, payments, and crews from one place.</p>
 
-      <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="final">Start your 10-day free trial</a>
+      <a href="https://www.bostel.com/checkout/?add-to-cart=3320&variation_id=3793&quantity=1" class="btn btn-primary trial-cta" id="final">Try for Free</a>
 
       <a href="https://wa.me/13217325338" class="secondary-link">Prefer to talk it through? WhatsApp us at (321) 732-5338</a>
     </div>
